@@ -1,2 +1,2 @@
-# http://jotaifpb.github.io/midias-sociais
+# http://jotaifpb.github.io/midiassociais
 rede sociais
