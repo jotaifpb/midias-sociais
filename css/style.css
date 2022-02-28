@@ -29,8 +29,8 @@ html,body{
 }
 .wrapper .icon span{
   display: block;
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
   background: #fff;
   border-radius: 50%;
   position: relative;
@@ -39,8 +39,8 @@ html,body{
   transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 .wrapper .icon span i{
-  line-height: 50px;
-  font-size: 30px;
+  line-height: 40px;
+  font-size: 20px;
 }
 .wrapper .icon .tooltip{
   position: absolute;
